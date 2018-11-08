@@ -1,0 +1,17 @@
+{
+    "name": "Shopping App",
+    "description": "A fully functioning Node.js shopping cart with Stripe, PayPal and Authorize.net payments.",
+    "repository": "git+https://github.com/skywalkerKFG/shoppingApp.git",
+    "logo": "public/images/logo.png",
+    "keywords": [
+        "Shopping app",
+        "express",
+        "mongodb",
+        "nodejs",
+        "ecommerce",
+        "paypal",
+        "lunr",
+        "app",
+        "shopping"
+    ]
+}
